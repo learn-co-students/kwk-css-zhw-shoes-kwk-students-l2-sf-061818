@@ -24,3 +24,27 @@
 
 /* Posititoning Classes */
 
+body {
+
+}
+
+#brands {
+  width: 66%;
+  float: left;
+}
+#archive {
+  width: 33%;
+  float: right;
+}
+#deal {
+  width: 30%;
+  display: inline-block;
+  padding-top: 2em;
+  margin-right: 1.5%;
+  margin-left: 1.5%;
+  float: middle;
+
+}
+h4{
+  color: transparent;
+}
