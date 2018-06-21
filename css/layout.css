@@ -24,3 +24,7 @@
 
 /* Posititoning Classes */
 
+.box {
+   column-count: 3; 
+}
+
